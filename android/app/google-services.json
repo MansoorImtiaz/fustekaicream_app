@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "189434677780",
+    "project_id": "fusteka-ice-cream",
+    "storage_bucket": "fusteka-ice-cream.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189434677780:android:21031b320a89cc33b0b501",
+        "android_client_info": {
+          "package_name": "com.example.fusteka_icecreem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189434677780-e48so0i43vdf9g0kbhq0rlpmj4nvrigq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fusteka_icecreem",
+            "certificate_hash": "acf968842b2ca5bac85e2505d66fbfae5edc34af"
+          }
+        },
+        {
+          "client_id": "189434677780-ca6l837k4c3poaahevbfu2nc7jjm472s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIn4NAZVY0plosamhHWlEqBC7NnWbY64M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189434677780-ca6l837k4c3poaahevbfu2nc7jjm472s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
